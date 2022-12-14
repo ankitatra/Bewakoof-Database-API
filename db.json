@@ -6084,5 +6084,641 @@
       "discountedPriceText": 237,
       "actualPriceText": 999
     }
-  ]
+  ],
+   "mobiles":[
+    
+        {    "size":[],
+            "id": 1 ,
+           "productImgTagSrc":"https://images.bewakoof.com/t1080/lion-the-king-printed-premium-glass-cover-for-oppo-a76-impact-resistant-matte-finish-527273-1659100776-1.jpg",
+           "brand_namez":"Qrioh",
+           "clr_shade_4":"Lion The King Printed Premium Glass Cover For Oppo A76 (Impact Resistant, Matte Finish)",
+           "discountedPriceText": 499 ,
+           "actualPriceText":1499 ,
+           "off":"66% OFF",
+           "discount_price_box":469
+        }, 
+         {    "size":[    ],
+            "id": 2 ,
+           "productImgTagSrc":"https://images.bewakoof.com/t640/funny-pug-face-printed-premium-glass-cover-for-oneplus-9rt-impact-resistant-matte-finish-526356-1659101896-1.jpg",
+           "brand_namez":"Qrioh",
+           "clr_shade_4":"Funny Pug Face Printed Premium Glass Cover For OnePlus 9RT (Impact Resistant, Matte Finish)",
+           "discountedPriceText": 499 ,
+           "actualPriceText":1499 ,
+           "off":"66% OFF",
+           "discount_price_box":469
+        },
+        {    "size":[
+
+        ],
+            "id": 3 ,
+           "productImgTagSrc":"https://images.bewakoof.com/t1080/gambling-problem-printed-premium-glass-cover-for-oneplus-9rt-impact-resistant-matte-finish-526367-1659101416-1.jpg",
+           "brand_namez":"Qrioh",
+           "clr_shade_4":"Gambling Problem Printed Premium Glass Cover For OnePlus 9RT (Impact Resistant, Matte Finish)",
+           "discountedPriceText": 499 ,
+           "actualPriceText":1499 ,
+           "off":"66% OFF",
+           "discount_price_box":469
+        },
+        {    "size":[
+
+        ],
+            "id": 4 ,
+           "productImgTagSrc":"https://images.bewakoof.com/t1080/green-owl-printed-designer-hard-cover-for-samsung-a22-5g-impact-resistant-matte-finish-548089-1665565752-1.jpg",
+           "brand_namez":"WRAPCART",
+           "clr_shade_4":"Green Owl Printed Designer Hard Cover For Samsung A22 5G (Impact Resistant, Matte Finish)",
+           "discountedPriceText": 255 ,
+           "actualPriceText":399 ,
+           "off":"43% OFF",
+           "discount_price_box":209
+        },     
+        {
+            "size":[],
+            "id": 5 ,
+           "productImgTagSrc":"https://images.bewakoof.com/t1080/travel-map-printed-designer-hard-cover-for-samsung-a22-5g-impact-resistant-matte-finish-548090-1665565669-1.jpg",
+           "brand_namez":"WRAPCART",
+           "clr_shade_4":"Travel Map Printed Designer Hard Cover For Samsung A22 5G (Impact Resistant, Matte Finish)",
+           "discountedPriceText": 255 ,
+           "actualPriceText":399 ,
+           "off":"43% OFF",
+           "discount_price_box":209
+        },
+        {    "size":[
+
+        ],
+            "id": 6 ,
+           "productImgTagSrc":"https://images.bewakoof.com/t1080/worship-printed-premium-glass-cover-for-a22-5g-impact-resistant-matte-finish-533165-1659623537-1.jpg",
+           "brand_namez":"Qrioh",
+           "clr_shade_4":"Worship Printed Premium Glass Cover For A22 5G(Impact Resistant, Matte Finish)",
+           "discountedPriceText": 499 ,
+           "actualPriceText":1499 ,
+           "off":"66% OFF",
+           "discount_price_box":209
+        },
+        {    "size":[
+
+        ],
+            "id": 7 ,
+           "productImgTagSrc":"https://images.bewakoof.com/t320/wakanda-king-designer-hard-cover-for-redmi-k20-pro-553386-1668136328-1.jpg",
+           "brand_namez":"Bewakoof",
+           "clr_shade_4":"Wakanda King Designer Hard Cover for Xiaomi Poco X2",
+           "discountedPriceText": 299 ,
+           "actualPriceText":499 ,
+           "off":"40% OFF",
+           "discount_price_box":279
+        },
+        {    "size":[
+
+        ],
+            "id": 8 ,
+           "productImgTagSrc":"https://images.bewakoof.com/t1080/dc-trio-led-cover-for-iphone-12-pro-517537-1658851125-2.jpg",
+           "brand_namez":"Bewakoof",
+           "clr_shade_4":"DC Trio LED Cover for iPhone 12 Pro",
+           "discountedPriceText": 849 ,
+           "actualPriceText":1599 ,
+           "off":"46% OFF",
+           "discount_price_box":779
+        },
+
+        {    "size":[
+
+        ],
+            "id": 9 ,
+           "productImgTagSrc":"https://images.bewakoof.com/t1080/dc-superheroes-designer-hard-cover-for-realme-6-558780-1670478146-1.jpg",
+           "brand_namez":"Bewakoof",
+           "clr_shade_4":"DC Superheroes Designer Hard Cover for Realme 6",
+           "discountedPriceText": 299 ,
+           "actualPriceText":499 ,
+           "off":"40% OFF",
+           "discount_price_box":279
+        },
+        
+        {    "size":[
+
+        ],
+            "id": 10 ,
+           "productImgTagSrc":"https://images.bewakoof.com/t540/hocopoco-pew-pew-glass-case-for-iphone-13-pro-max-448335-1636960633-1.jpg",
+           "brand_namez":"Hocopoco",
+           "clr_shade_4":"Pew Pew Glass Case For Iphone 13 Pro Max",
+           "discountedPriceText": 499 ,
+           "actualPriceText":1499 ,
+           "off":"66% OFF",
+           "discount_price_box":379
+        },
+
+        {    "size":[
+
+        ],
+            "id": 11 ,
+           "productImgTagSrc":"https://images.bewakoof.com/t320/hocopoco-daily-routine-glass-case-for-iphone-13-448322-1636959992-1.jpg",
+           "brand_namez":"Hocopoco",
+           "clr_shade_4":"Pew Pew Glass Case For Iphone 13 Pro Max",
+           "discountedPriceText": 499 ,
+           "actualPriceText":1499 ,
+           "off":"66% OFF",
+           "discount_price_box":379
+        },
+        {    "size":[
+
+        ],
+            "id": 12,
+           "productImgTagSrc":"https://images.bewakoof.com/t320/hocopoco-multicolor-samsung-galaxy-a51-glass-mobile-cover-468610-1643097083-1.jpg",
+           "brand_namez":"Hocopoco",
+           "clr_shade_4":"Pew Pew Glass Case For Iphone 13 Pro Max",
+           "discountedPriceText": 499 ,
+           "actualPriceText":1499 ,
+           "off":"66% OFF",
+           "discount_price_box":379
+        },
+        {    "size":[
+
+        ],
+            "id": 13 ,
+           "productImgTagSrc":"https://images.bewakoof.com/t320/hocopoco-multicolor-samsung-galaxy-m31-glass-mobile-cover-468615-1643096623-1.jpg",
+           "brand_namez":"Hocopoco",
+           "clr_shade_4":"Pew Pew Glass Case For Iphone 13 Pro Max",
+           "discountedPriceText": 499 ,
+           "actualPriceText":1499 ,
+           "off":"66% OFF",
+           "discount_price_box":379
+        },
+
+
+        {    "size":[
+
+        ],
+            "id": 14,
+           "productImgTagSrc":"https://images.bewakoof.com/t1080/lion-the-king-printed-premium-glass-cover-for-oppo-a76-impact-resistant-matte-finish-527273-1659100776-1.jpg",
+           "brand_namez":"Qrioh",
+           "clr_shade_4":"Lion The King Printed Premium Glass Cover For Oppo A76 (Impact Resistant, Matte Finish)",
+           "discountedPriceText": 499 ,
+           "actualPriceText":1499 ,
+           "off":"66% OFF",
+           "discount_price_box":469
+        }, 
+         {    "size":[
+
+         ],
+            "id": 15 ,
+           "productImgTagSrc":"https://images.bewakoof.com/t640/funny-pug-face-printed-premium-glass-cover-for-oneplus-9rt-impact-resistant-matte-finish-526356-1659101896-1.jpg",
+           "brand_namez":"Qrioh",
+           "clr_shade_4":"Funny Pug Face Printed Premium Glass Cover For OnePlus 9RT (Impact Resistant, Matte Finish)",
+           "discountedPriceText": 499 ,
+           "actualPriceText":1499 ,
+           "off":"66% OFF",
+           "discount_price_box":469
+        },
+        {    "size":[
+
+        ],
+            "id": 16 ,
+           "productImgTagSrc":"https://images.bewakoof.com/t1080/gambling-problem-printed-premium-glass-cover-for-oneplus-9rt-impact-resistant-matte-finish-526367-1659101416-1.jpg",
+           "brand_namez":"Qrioh",
+           "clr_shade_4":"Gambling Problem Printed Premium Glass Cover For OnePlus 9RT (Impact Resistant, Matte Finish)",
+           "discountedPriceText": 499 ,
+           "actualPriceText":1499 ,
+           "off":"66% OFF",
+           "discount_price_box":469
+        },
+        {    "size":[ ],
+            "id": 17 ,
+           "productImgTagSrc":"https://images.bewakoof.com/t1080/green-owl-printed-designer-hard-cover-for-samsung-a22-5g-impact-resistant-matte-finish-548089-1665565752-1.jpg",
+           "brand_namez":"WRAPCART",
+           "clr_shade_4":"Green Owl Printed Designer Hard Cover For Samsung A22 5G (Impact Resistant, Matte Finish)",
+           "discountedPriceText": 255 ,
+           "actualPriceText":399 ,
+           "off":"43% OFF",
+           "discount_price_box":209
+        },  
+        {
+            "size":[ ],
+            "id": 18,
+           "productImgTagSrc":"https://images.bewakoof.com/t1080/travel-map-printed-designer-hard-cover-for-samsung-a22-5g-impact-resistant-matte-finish-548090-1665565669-1.jpg",
+           "brand_namez":"WRAPCART",
+           "clr_shade_4":"Travel Map Printed Designer Hard Cover For Samsung A22 5G (Impact Resistant, Matte Finish)",
+           "discountedPriceText": 255 ,
+           "actualPriceText":399 ,
+           "off":"43% OFF",
+           "discount_price_box":209
+        },
+        {    "size":[
+
+        ],
+            "id": 19 ,
+           "productImgTagSrc":"https://images.bewakoof.com/t1080/worship-printed-premium-glass-cover-for-a22-5g-impact-resistant-matte-finish-533165-1659623537-1.jpg",
+           "brand_namez":"Qrioh",
+           "clr_shade_4":"Worship Printed Premium Glass Cover For A22 5G(Impact Resistant, Matte Finish)",
+           "discountedPriceText": 499 ,
+           "actualPriceText":1499 ,
+           "off":"66% OFF",
+           "discount_price_box":209
+        },
+        {    "size":[
+
+        ],
+            "id": 20 ,
+           "productImgTagSrc":"https://images.bewakoof.com/t320/wakanda-king-designer-hard-cover-for-redmi-k20-pro-553386-1668136328-1.jpg",
+           "brand_namez":"Bewakoof",
+           "clr_shade_4":"Wakanda King Designer Hard Cover for Xiaomi Poco X2",
+           "discountedPriceText": 299 ,
+           "actualPriceText":499 ,
+           "off":"40% OFF",
+           "discount_price_box":279
+        },
+        {    "size":[
+
+        ],
+            "id": 21 ,
+           "productImgTagSrc":"https://images.bewakoof.com/t1080/dc-trio-led-cover-for-iphone-12-pro-517537-1658851125-2.jpg",
+           "brand_namez":"Bewakoof",
+           "clr_shade_4":"DC Trio LED Cover for iPhone 12 Pro",
+           "discountedPriceText": 849 ,
+           "actualPriceText":1599 ,
+           "off":"46% OFF",
+           "discount_price_box":779
+        },
+
+        {    "size":[
+
+        ],
+            "id": 22 ,
+           "productImgTagSrc":"https://images.bewakoof.com/t1080/dc-superheroes-designer-hard-cover-for-realme-6-558780-1670478146-1.jpg",
+           "brand_namez":"Bewakoof",
+           "clr_shade_4":"DC Superheroes Designer Hard Cover for Realme 6",
+           "discountedPriceText": 299 ,
+           "actualPriceText":499 ,
+           "off":"40% OFF",
+           "discount_price_box":279
+        },
+        
+        {    "size":[
+
+        ],
+            "id": 23 ,
+           "productImgTagSrc":"https://images.bewakoof.com/t540/hocopoco-pew-pew-glass-case-for-iphone-13-pro-max-448335-1636960633-1.jpg",
+           "brand_namez":"Hocopoco",
+           "clr_shade_4":"Pew Pew Glass Case For Iphone 13 Pro Max",
+           "discountedPriceText": 499 ,
+           "actualPriceText":1499 ,
+           "off":"66% OFF",
+           "discount_price_box":379
+        },
+
+        {    "size":[
+
+        ],
+            "id":24 ,
+           "productImgTagSrc":"https://images.bewakoof.com/t320/hocopoco-daily-routine-glass-case-for-iphone-13-448322-1636959992-1.jpg",
+           "brand_namez":"Hocopoco",
+           "clr_shade_4":"Pew Pew Glass Case For Iphone 13 Pro Max",
+           "discountedPriceText": 499 ,
+           "actualPriceText":1499 ,
+           "off":"66% OFF",
+           "discount_price_box":379
+        },
+        {    "size":[
+
+        ],
+            "id": 25,
+           "productImgTagSrc":"https://images.bewakoof.com/t320/hocopoco-multicolor-samsung-galaxy-a51-glass-mobile-cover-468610-1643097083-1.jpg",
+           "brand_namez":"Hocopoco",
+           "clr_shade_4":"Pew Pew Glass Case For Iphone 13 Pro Max",
+           "discountedPriceText": 499 ,
+           "actualPriceText":1499 ,
+           "off":"66% OFF",
+           "discount_price_box":379
+        },
+        {    "size":[
+
+        ],
+            "id": 26 ,
+           "productImgTagSrc":"https://images.bewakoof.com/t320/hocopoco-multicolor-samsung-galaxy-m31-glass-mobile-cover-468615-1643096623-1.jpg",
+           "brand_namez":"Hocopoco",
+           "clr_shade_4":"Pew Pew Glass Case For Iphone 13 Pro Max",
+           "discountedPriceText": 499 ,
+           "actualPriceText":1499 ,
+           "off":"66% OFF",
+           "discount_price_box":379
+        },
+
+
+        {    "size":[
+
+        ],
+            "id": 27 ,
+           "productImgTagSrc":"https://images.bewakoof.com/t1080/lion-the-king-printed-premium-glass-cover-for-oppo-a76-impact-resistant-matte-finish-527273-1659100776-1.jpg",
+           "brand_namez":"Qrioh",
+           "clr_shade_4":"Lion The King Printed Premium Glass Cover For Oppo A76 (Impact Resistant, Matte Finish)",
+           "discountedPriceText": 499 ,
+           "actualPriceText":1499 ,
+           "off":"66% OFF",
+           "discount_price_box":469
+        }, 
+         {    "size":[
+
+         ],
+            "id": 28 ,
+           "productImgTagSrc":"https://images.bewakoof.com/t640/funny-pug-face-printed-premium-glass-cover-for-oneplus-9rt-impact-resistant-matte-finish-526356-1659101896-1.jpg",
+           "brand_namez":"Qrioh",
+           "clr_shade_4":"Funny Pug Face Printed Premium Glass Cover For OnePlus 9RT (Impact Resistant, Matte Finish)",
+           "discountedPriceText": 499 ,
+           "actualPriceText":1499 ,
+           "off":"66% OFF",
+           "discount_price_box":469
+        },
+        {    "size":[
+
+        ],
+            "id": 29 ,
+           "productImgTagSrc":"https://images.bewakoof.com/t1080/gambling-problem-printed-premium-glass-cover-for-oneplus-9rt-impact-resistant-matte-finish-526367-1659101416-1.jpg",
+           "brand_namez":"Qrioh",
+           "clr_shade_4":"Gambling Problem Printed Premium Glass Cover For OnePlus 9RT (Impact Resistant, Matte Finish)",
+           "discountedPriceText": 499 ,
+           "actualPriceText":1499 ,
+           "off":"66% OFF",
+           "discount_price_box":469
+        },
+        {    "size":[
+
+        ],
+            "id": 30 ,
+           "productImgTagSrc":"https://images.bewakoof.com/t1080/green-owl-printed-designer-hard-cover-for-samsung-a22-5g-impact-resistant-matte-finish-548089-1665565752-1.jpg",
+           "brand_namez":"WRAPCART",
+           "clr_shade_4":"Green Owl Printed Designer Hard Cover For Samsung A22 5G (Impact Resistant, Matte Finish)",
+           "discountedPriceText": 255 ,
+           "actualPriceText":399 ,
+           "off":"43% OFF",
+           "discount_price_box":209
+        },    
+        {
+            "size":[],
+            "id": 31 ,
+           "productImgTagSrc":"https://images.bewakoof.com/t1080/travel-map-printed-designer-hard-cover-for-samsung-a22-5g-impact-resistant-matte-finish-548090-1665565669-1.jpg",
+           "brand_namez":"WRAPCART",
+           "clr_shade_4":"Travel Map Printed Designer Hard Cover For Samsung A22 5G (Impact Resistant, Matte Finish)",
+           "discountedPriceText": 255 ,
+           "actualPriceText":399 ,
+           "off":"43% OFF",
+           "discount_price_box":209
+        },
+        {    "size":[
+
+        ],
+            "id": 32 ,
+           "productImgTagSrc":"https://images.bewakoof.com/t1080/worship-printed-premium-glass-cover-for-a22-5g-impact-resistant-matte-finish-533165-1659623537-1.jpg",
+           "brand_namez":"Qrioh",
+           "clr_shade_4":"Worship Printed Premium Glass Cover For A22 5G(Impact Resistant, Matte Finish)",
+           "discountedPriceText": 499 ,
+           "actualPriceText":1499 ,
+           "off":"66% OFF",
+           "discount_price_box":209
+        },
+        {    "size":[
+
+        ],
+            "id":33 ,
+           "productImgTagSrc":"https://images.bewakoof.com/t320/wakanda-king-designer-hard-cover-for-redmi-k20-pro-553386-1668136328-1.jpg",
+           "brand_namez":"Bewakoof",
+           "clr_shade_4":"Wakanda King Designer Hard Cover for Xiaomi Poco X2",
+           "discountedPriceText": 299 ,
+           "actualPriceText":499 ,
+           "off":"40% OFF",
+           "discount_price_box":279
+        },
+        {    "size":[
+
+        ],
+            "id": 34 ,
+           "productImgTagSrc":"https://images.bewakoof.com/t1080/dc-trio-led-cover-for-iphone-12-pro-517537-1658851125-2.jpg",
+           "brand_namez":"Bewakoof",
+           "clr_shade_4":"DC Trio LED Cover for iPhone 12 Pro",
+           "discountedPriceText": 849 ,
+           "actualPriceText":1599 ,
+           "off":"46% OFF",
+           "discount_price_box":779
+        },
+
+        {    "size":[
+
+        ],
+            "id": 35 ,
+           "productImgTagSrc":"https://images.bewakoof.com/t1080/dc-superheroes-designer-hard-cover-for-realme-6-558780-1670478146-1.jpg",
+           "brand_namez":"Bewakoof",
+           "clr_shade_4":"DC Superheroes Designer Hard Cover for Realme 6",
+           "discountedPriceText": 299 ,
+           "actualPriceText":499 ,
+           "off":"40% OFF",
+           "discount_price_box":279
+        },
+        
+        {    "size":[
+
+        ],
+            "id": 36 ,
+           "productImgTagSrc":"https://images.bewakoof.com/t540/hocopoco-pew-pew-glass-case-for-iphone-13-pro-max-448335-1636960633-1.jpg",
+           "brand_namez":"Hocopoco",
+           "clr_shade_4":"Pew Pew Glass Case For Iphone 13 Pro Max",
+           "discountedPriceText": 499 ,
+           "actualPriceText":1499 ,
+           "off":"66% OFF",
+           "discount_price_box":379
+        },
+
+        {    "size":[
+
+        ],
+            "id": 37,
+           "productImgTagSrc":"https://images.bewakoof.com/t320/hocopoco-daily-routine-glass-case-for-iphone-13-448322-1636959992-1.jpg",
+           "brand_namez":"Hocopoco",
+           "clr_shade_4":"Pew Pew Glass Case For Iphone 13 Pro Max",
+           "discountedPriceText": 499 ,
+           "actualPriceText":1499 ,
+           "off":"66% OFF",
+           "discount_price_box":379
+        },
+        {    "size":[
+
+        ],
+            "id": 38,
+           "productImgTagSrc":"https://images.bewakoof.com/t320/hocopoco-multicolor-samsung-galaxy-a51-glass-mobile-cover-468610-1643097083-1.jpg",
+           "brand_namez":"Hocopoco",
+           "clr_shade_4":"Pew Pew Glass Case For Iphone 13 Pro Max",
+           "discountedPriceText": 499 ,
+           "actualPriceText":1499 ,
+           "off":"66% OFF",
+           "discount_price_box":379
+        },
+        {    "size":[
+
+        ],
+            "id": 39 ,
+           "productImgTagSrc":"https://images.bewakoof.com/t320/hocopoco-multicolor-samsung-galaxy-m31-glass-mobile-cover-468615-1643096623-1.jpg",
+           "brand_namez":"Hocopoco",
+           "clr_shade_4":"Pew Pew Glass Case For Iphone 13 Pro Max",
+           "discountedPriceText": 499 ,
+           "actualPriceText":1499 ,
+           "off":"66% OFF",
+           "discount_price_box":379
+        },
+
+
+        {    "size":[
+
+        ],
+            "id": 40 ,
+           "productImgTagSrc":"https://images.bewakoof.com/t1080/lion-the-king-printed-premium-glass-cover-for-oppo-a76-impact-resistant-matte-finish-527273-1659100776-1.jpg",
+           "brand_namez":"Qrioh",
+           "clr_shade_4":"Lion The King Printed Premium Glass Cover For Oppo A76 (Impact Resistant, Matte Finish)",
+           "discountedPriceText": 499 ,
+           "actualPriceText":1499 ,
+           "off":"66% OFF",
+           "discount_price_box":469
+        }, 
+         {    "size":[
+
+         ],
+            "id":41 ,
+           "productImgTagSrc":"https://images.bewakoof.com/t640/funny-pug-face-printed-premium-glass-cover-for-oneplus-9rt-impact-resistant-matte-finish-526356-1659101896-1.jpg",
+           "brand_namez":"Qrioh",
+           "clr_shade_4":"Funny Pug Face Printed Premium Glass Cover For OnePlus 9RT (Impact Resistant, Matte Finish)",
+           "discountedPriceText": 499 ,
+           "actualPriceText":1499 ,
+           "off":"66% OFF",
+           "discount_price_box":469
+        },
+        {    "size":[
+
+        ],
+            "id":42 ,
+           "productImgTagSrc":"https://images.bewakoof.com/t1080/gambling-problem-printed-premium-glass-cover-for-oneplus-9rt-impact-resistant-matte-finish-526367-1659101416-1.jpg",
+           "brand_namez":"Qrioh",
+           "clr_shade_4":"Gambling Problem Printed Premium Glass Cover For OnePlus 9RT (Impact Resistant, Matte Finish)",
+           "discountedPriceText": 499 ,
+           "actualPriceText":1499 ,
+           "off":"66% OFF",
+           "discount_price_box":469
+        },
+        {    "size":[
+
+        ],
+            "id": 43 ,
+           "productImgTagSrc":"https://images.bewakoof.com/t1080/green-owl-printed-designer-hard-cover-for-samsung-a22-5g-impact-resistant-matte-finish-548089-1665565752-1.jpg",
+           "brand_namez":"WRAPCART",
+           "clr_shade_4":"Green Owl Printed Designer Hard Cover For Samsung A22 5G (Impact Resistant, Matte Finish)",
+           "discountedPriceText": 255 ,
+           "actualPriceText":399 ,
+           "off":"43% OFF",
+           "discount_price_box":209
+        },    
+        {
+            "size":[],
+            "id": 44 ,
+           "productImgTagSrc":"https://images.bewakoof.com/t1080/travel-map-printed-designer-hard-cover-for-samsung-a22-5g-impact-resistant-matte-finish-548090-1665565669-1.jpg",
+           "brand_namez":"WRAPCART",
+           "clr_shade_4":"Travel Map Printed Designer Hard Cover For Samsung A22 5G (Impact Resistant, Matte Finish)",
+           "discountedPriceText": 255 ,
+           "actualPriceText":399 ,
+           "off":"43% OFF",
+           "discount_price_box":209
+        },
+        {    "size":[
+
+        ],
+            "id": 45 ,
+           "productImgTagSrc":"https://images.bewakoof.com/t1080/worship-printed-premium-glass-cover-for-a22-5g-impact-resistant-matte-finish-533165-1659623537-1.jpg",
+           "brand_namez":"Qrioh",
+           "clr_shade_4":"Worship Printed Premium Glass Cover For A22 5G(Impact Resistant, Matte Finish)",
+           "discountedPriceText": 499 ,
+           "actualPriceText":1499 ,
+           "off":"66% OFF",
+           "discount_price_box":209
+        },
+        {    "size":[
+
+        ],
+            "id": 46 ,
+           "productImgTagSrc":"https://images.bewakoof.com/t320/wakanda-king-designer-hard-cover-for-redmi-k20-pro-553386-1668136328-1.jpg",
+           "brand_namez":"Bewakoof",
+           "clr_shade_4":"Wakanda King Designer Hard Cover for Xiaomi Poco X2",
+           "discountedPriceText": 299 ,
+           "actualPriceText":499 ,
+           "off":"40% OFF",
+           "discount_price_box":279
+        },
+        {    "size":[
+
+        ],
+            "id": 47 ,
+           "productImgTagSrc":"https://images.bewakoof.com/t1080/dc-trio-led-cover-for-iphone-12-pro-517537-1658851125-2.jpg",
+           "brand_namez":"Bewakoof",
+           "clr_shade_4":"DC Trio LED Cover for iPhone 12 Pro",
+           "discountedPriceText": 849 ,
+           "actualPriceText":1599 ,
+           "off":"46% OFF",
+           "discount_price_box":779
+        },
+
+        {    "size":[
+
+        ],
+            "id": 48 ,
+           "productImgTagSrc":"https://images.bewakoof.com/t1080/dc-superheroes-designer-hard-cover-for-realme-6-558780-1670478146-1.jpg",
+           "brand_namez":"Bewakoof",
+           "clr_shade_4":"DC Superheroes Designer Hard Cover for Realme 6",
+           "discountedPriceText": 299 ,
+           "actualPriceText":499 ,
+           "off":"40% OFF",
+           "discount_price_box":279
+        },
+        
+        {    "size":[
+
+        ],
+            "id": 49 ,
+           "productImgTagSrc":"https://images.bewakoof.com/t540/hocopoco-pew-pew-glass-case-for-iphone-13-pro-max-448335-1636960633-1.jpg",
+           "brand_namez":"Hocopoco",
+           "clr_shade_4":"Pew Pew Glass Case For Iphone 13 Pro Max",
+           "discountedPriceText": 499 ,
+           "actualPriceText":1499 ,
+           "off":"66% OFF",
+           "discount_price_box":379
+        },
+
+        {    "size":[
+
+        ],
+            "id": 50 ,
+           "productImgTagSrc":"https://images.bewakoof.com/t320/hocopoco-daily-routine-glass-case-for-iphone-13-448322-1636959992-1.jpg",
+           "brand_namez":"Hocopoco",
+           "clr_shade_4":"Pew Pew Glass Case For Iphone 13 Pro Max",
+           "discountedPriceText": 499 ,
+           "actualPriceText":1499 ,
+           "off":"66% OFF",
+           "discount_price_box":379
+        },
+        {    "size":[
+
+        ],
+            "id": 51,
+           "productImgTagSrc":"https://images.bewakoof.com/t320/hocopoco-multicolor-samsung-galaxy-a51-glass-mobile-cover-468610-1643097083-1.jpg",
+           "brand_namez":"Hocopoco",
+           "clr_shade_4":"Pew Pew Glass Case For Iphone 13 Pro Max",
+           "discountedPriceText": 499 ,
+           "actualPriceText":1499 ,
+           "off":"66% OFF",
+           "discount_price_box":379
+        },
+        {    "size":[
+
+        ],
+            "id": 52 ,
+           "productImgTagSrc":"https://images.bewakoof.com/t320/hocopoco-multicolor-samsung-galaxy-m31-glass-mobile-cover-468615-1643096623-1.jpg",
+           "brand_namez":"Hocopoco",
+           "clr_shade_4":"Pew Pew Glass Case For Iphone 13 Pro Max",
+           "discountedPriceText": 499 ,
+           "actualPriceText":1499 ,
+           "off":"66% OFF",
+           "discount_price_box":379
+        }
+
+    ]
 }
